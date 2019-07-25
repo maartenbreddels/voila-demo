@@ -1,7 +1,16 @@
 # voila-demo
 Demo for voila
 
+# Run on mybinder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maartenbreddels/voila-demo/master?urlpath=voila%2Frender%2Fvoila-vuetify.ipynb)
+
+
+# Run on heroku
+
+[Voila on Heroku](https://voila-vuetify.herokuapp.com/)
+
+
+(Following instructions from https://github.com/martinRenou/voila_heroku)
 
 
 # Run locally
