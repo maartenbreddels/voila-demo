@@ -10,8 +10,9 @@ Demo for voila
 [Voila on Heroku](https://voila-vuetify.herokuapp.com/)
 
 
-(Following instructions from https://github.com/martinRenou/voila_heroku)
+Following instructions from https://github.com/martinRenou/voila_heroku
 
+Or alternatively use https://github.com/jtpio/jupyterlab-heroku
 
 # Run locally
 ```
