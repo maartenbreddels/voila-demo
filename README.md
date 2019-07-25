@@ -9,3 +9,4 @@ Demo for voila
 $ pip install voila voila-vuetify bqplot numpy ipyvuetify
 $ voila --template voila-vuetify --enable_nbextensions=True ./notebooks/voila-vuetify.ipynb
 ```
+ 
