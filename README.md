@@ -25,6 +25,13 @@ Following instructions from https://github.com/martinRenou/voila_heroku
 
 Or alternatively use https://github.com/jtpio/jupyterlab-heroku
 
+# Run on Google App Engine
+
+[Voila on App Engine](https://voila-demo.appspot.com/)
+
+Following instructions at https://voila.readthedocs.io/en/latest/deploy.html
+
+
 # Run locally
 ```
 $ pip install voila voila-vuetify bqplot numpy ipyvuetify
