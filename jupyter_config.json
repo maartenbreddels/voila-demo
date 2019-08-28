@@ -7,7 +7,7 @@
             ".jl": "julia"
         },
         "language_kernel_mapping": {
-            "python": "xpython"
+            "python": "python3"
         }
     }
 }
