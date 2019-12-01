@@ -1,5 +1,5 @@
-voila>=0.1.8
+voila>=0.1.8,<0.2.0
 ipyvuetify>=0.1.9
-voila-vuetify>=0.0.1a6
+voila-vuetify=0.1.1
 bqplot
 numpy
