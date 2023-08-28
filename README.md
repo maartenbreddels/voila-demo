@@ -31,9 +31,9 @@ Or alternatively use https://github.com/jtpio/jupyterlab-heroku
 
 Following instructions at https://voila.readthedocs.io/en/latest/deploy.html
 
-
 # Run locally
+
 ```
-$ pip install voila voila-vuetify bqplot numpy ipyvuetify
-$ voila --template voila-vuetify --enable_nbextensions=True ./notebooks/voila-vuetify.ipynb
+$ pip install -r requirements.txt
+$ voila --template vuetify-default --enable_nbextensions=True ./voila-vuetify.ipynb
 ```
